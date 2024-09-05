@@ -9,4 +9,5 @@ The purpose of this package is to make it more easy and compatible with estimato
 <div align="center"><img src="figures/image.png" width=90% /></div>
 
 ### notice
+-----------------------------
 The following package will also be a part of upcoming dataset, [DiTer++](https://github.com/sparolab/DiTer-plusplus) which extensively integrates every proprioceptive and exteroceptive measurements for single / multi-robot research.
