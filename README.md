@@ -10,9 +10,13 @@ The purpose of this package is to make it more easy and compatible with estimato
 
 ## Prerequisites
 **[Unitree_legged_sdk](https://github.com/unitreerobotics/unitree_legged_sdk)**
+
 **[Unitree_sdk2](https://github.com/unitreerobotics/unitree_sdk2)**
+
 **[Unitree_legged_msgs](https://github.com/unitreerobotics/unitree_ros_to_real.git) (included in the repository)**
+
 ROS Noetic(Ubuntu 20.04)
+
 LCM
 
 -----------------------------
