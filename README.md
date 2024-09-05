@@ -8,6 +8,12 @@ The purpose of this package is to make it more easy and compatible with estimato
 
 <div align="center"><img src="figures/image.png" width=90% /></div>
 
+## Prerequisites
+**[Unitree_legged_sdk](https://github.com/unitreerobotics/unitree_legged_sdk)**
+**[Unitree_sdk2](https://github.com/unitreerobotics/unitree_sdk2)**
+**[Unitree_legged_msgs](https://github.com/unitreerobotics/unitree_ros_to_real.git) (included in the repository)**
+ROS Noetic(Ubuntu 20.04)
+LCM
 
 -----------------------------
 The following package will also be a part of upcoming dataset, [DiTer++](https://github.com/sparolab/DiTer-plusplus) which extensively integrates every proprioceptive and exteroceptive measurements for single / multi-robot research.
